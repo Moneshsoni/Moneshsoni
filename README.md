@@ -4,5 +4,5 @@
 🌱 I’m currently learning data science, machine learning
 👯 I’m looking to collaborate on open source project
 🤔 I’m looking for help with in my project.
-💬 Ask me about Python, Django, Docker, Machine Learning, Data Science.
+💬 Ask me about Python,R, Django, Machine Learning, Data Science.
 📫 How to reach me: LinkedIn, twitter, medium
