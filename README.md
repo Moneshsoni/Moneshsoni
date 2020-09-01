@@ -5,4 +5,4 @@
 👯 I’m looking to collaborate on open source project
 🤔 I’m looking for help with in my project.
 💬 Ask me about Python,R, Django, Machine Learning, Data Science.
-📫 How to reach me: LinkedIn, twitter, medium
+📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/monesh-soni/), [twitter](https://twitter.com/monesh_soni)
