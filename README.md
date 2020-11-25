@@ -1,6 +1,6 @@
  Hi there 👋
 
-I'm Monesh soni. I'm an undergraduate IT student from India.
+I'm Monesh soni. I'm an undergraduate IT student from Indore India.
 
 -🔭 I’m currently working on 🐍 Python, Django
 
