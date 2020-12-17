@@ -1,6 +1,6 @@
  Hi there 👋
 
-I'm Monesh soni. I'm  Devops Engineer from Ncs Indore India.
+I'm Monesh soni. I'm  Devops Engineer From Indore India.
 
 -🔭 I’m currently working on 🐍 Devops, Docker, AWS
 
