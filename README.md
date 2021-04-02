@@ -2,9 +2,9 @@
 
 I'm Monesh soni. I'm  Devops Engineer From Indore India.
 
--🔭 I’m currently working on 🐍 Devops, Docker, AWS
+-🔭 I’m currently working on 🐍 Devops, Python, Docker, AWS ,Linux.
 
-*🌱 I’m currently working as a Trainee Devops Engineer in Insigniac company Indore. 
+*🌱 I’m currently Searching job opportunity in IT Field. 
 
 *👯 I’m looking to collaborate on open source project
 
