@@ -2,7 +2,7 @@
 
 I'm Monesh soni. I'm  Blockchain Developer In Thoughtwin It solutions pvt ltd. Indore India.
 
--🔭 I’m currently working on Blockchain Technology🐍 and I have knowledge of solana, ethereum , Rust , solidity, Ruby On Rails, Python, Docker, AWS ,Linux. 
+-🔭 I’m currently working on Blockchain Technology and I have knowledge of  ethereum, solana,  Rust, solidity, Ruby On Rails, Python, Docker, AWS ,Linux. 
 
 *👯 I’m looking to collaborate on open source project
 
