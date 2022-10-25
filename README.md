@@ -8,6 +8,6 @@ I'm Monesh soni. I'm  Blockchain Developer In Thoughtwin It solutions pvt ltd. I
 
 *🤔 I’m looking for help with in my project.
 
-*💬 Ask me about Blockchain , solana , Ethereum, Ruby ,Rails ,Python,R, Django, Machine Learning, Ansible , cloud formation aws ,Bash Script.
+*💬 Ask me about Blockchain , Ethereum,Solidity, solana , Ruby ,Rails ,Python,R, Django, Machine Learning, Ansible , cloud formation aws ,Bash Script.
 
 -*📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/monesh-soni/), [twitter](https://twitter.com/monesh_soni)
