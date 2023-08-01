@@ -16,5 +16,3 @@
 
 
 -*📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/monesh-soni/), [twitter](https://twitter.com/monesh_soni)
-
-![iStock-953499010_0](https://user-images.githubusercontent.com/37656255/203471184-bc91d918-d511-4c9f-ba69-7816dc871ef1.jpeg)
