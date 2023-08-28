@@ -2,7 +2,7 @@
 
 🚀 Ruby on Rails Developer | Web Application Enthusiast | Open Source Contributor
 
-🔭 I'm passionate about building scalable and user-friendly web applications using Ruby on Rails. With 2 years of experience in RoR development, I have successfully delivered projects that provide seamless user experiences and solve real-world problems.
+🔭 I'm passionate about building scalable and user-friendly web applications using Ruby on Rails. With 2+ years of experience in RoR development, I have successfully delivered projects that provide seamless user experiences and solve real-world problems.
 
 💼 Currently working at Thoughtwin IT solutions as a RoR Developer, where I collaborate with talented teams to design and implement high-quality software solutions.
 
